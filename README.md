@@ -6,4 +6,3 @@ About the data:
 The MovieLense data set is comprised of 100,836 ratings applied to 9,742  movies rated by 610 users, encompassing 19 genres. the generas included are, Action, Adventure, Animation, Children, Comedy, Crime, Documentary, Drama, Fantasy, Film-Noir, Horror, Musical, Mystery, Romance, Sci-Fi, Thriller, War, Western, no genres listed. The data was collected from March 29th, 1996 to September 24th 2018. the users used for this data set must have rated more than 20 movies on IMBD in order to be included in the dataset. No demographic information was taken about the user, only their unique user ID number was used. 
 
 Link for GroupLense data set: https://grouplens.org/datasets/movielens/
-There is also a folder in this repository labeled "Original Data From MovieLense"of the original dataset. 
